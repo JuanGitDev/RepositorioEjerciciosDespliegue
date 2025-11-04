@@ -40,5 +40,3 @@ Este repositorio contiene ejercicios y apuntes realizados sobre Linux y Git / Gi
 Uso personal/educativo. Para dudas o sugerencias contactar a Juan Carlos Munguia.
 
 ---
-
-¡Bienvenido! Añade tus ejercicios y apuntes siguiendo la estructura para mantener el repositorio ordenado y fácil de usar.
